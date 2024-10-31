@@ -1,4 +1,3 @@
-## Hi there 👋
 # 💫 About Me:
 <br>- 🌱 Atualmente estudando c#<br>- 🔭 Estou atualmente trabalhando em meu portifolio<br><br>- 🌱 I’m currently learning c#<br>- 🔭 I’m currently working on my portifolio
 
